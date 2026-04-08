@@ -1,0 +1,14 @@
+numpy
+scipy
+matplotlib
+meshio
+h5py
+tqdm
+scikit-learn
+cython
+pyopencl
+# PeriPy: on Windows install from source instead of PyPI (see notebook)
+#   git clone https://github.com/alan-turing-institute/PeriPy.git
+#   cd PeriPy && pip install -e .
+peripy
+jupyter
