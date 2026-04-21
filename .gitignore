@@ -1,0 +1,18 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# PeriPy itself is cloned locally but not part of this repo
+PeriPy/
+
+# Generated simulation artifacts
+plate.msh
+U_*.vtk
+demo_output.png
+*.h5
