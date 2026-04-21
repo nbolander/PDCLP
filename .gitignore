@@ -16,3 +16,5 @@ plate.msh
 U_*.vtk
 demo_output.png
 *.h5
+plate_elastic.msh
+elastic_output.png
